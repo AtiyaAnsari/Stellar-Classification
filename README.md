@@ -1,4 +1,8 @@
-# Stellar-Classification
+# STELLAR-CLASSIFICATION
+## Context
+In astronomy, stellar classification is the classification of stars based on their spectral characteristics. The classification scheme of galaxies, quasars, and stars is one of the most fundamental in astronomy. The early cataloguing of stars and their distribution in the sky has led to the understanding that they make up our own galaxy and, by following the distinction that Andromeda was a separate galaxy to our own, numerous galaxies began to be surveyed as more powerful telescopes were built. This dataset aims to classify stars, galaxies, and quasars based on their spectral characteristics.
+
+## Attribute Information
 The data consists of 100,000 observations of space taken by the SDSS (Sloan Digital Sky Survey). Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.
 obj_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS
 alpha = Right Ascension angle (at J2000 epoch)
